@@ -1,0 +1,22 @@
+.top {
+    background-color: grey;
+    height: 200px;
+}
+
+.bottom {
+    background-color: black;
+    height: 100px;
+}
+
+.right {
+    background-color: lightgrey;
+    float: right;
+    height: 250px;
+    width: 50px;
+}
+
+.left {
+    background-color: lightgrey;
+    height: 250px;
+    width: 50px;
+}
